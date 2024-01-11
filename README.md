@@ -7,6 +7,6 @@ El archivo [Dataset diabetes.docx](https://github.com/LautaroOchotorena/Diabetes
 
 El **resumen** (en redes neuronales) es una **binary_accuracy** de alrededor 83%, una **recall** del 80% y **precisión** del 71%.
 
-**Librerías principales**:
+**Librerías principales**: <br>
 Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Sklearn y Scipy.
 
