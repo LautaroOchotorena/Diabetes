@@ -19,7 +19,7 @@ Primero consta de un **análisis** del [dataset](https://github.com/LautaroOchot
 
 ## Resultados
 
-Al tratarse de una enfermedad se priorizó tener una buena recall.
+Al tratarse de una enfermedad se priorizó tener una buena recall en la clase diabética.
 
 | Modelo       | Precisión | Recall | ROC AUC |
 |--------------|--------|-----------|---------|
