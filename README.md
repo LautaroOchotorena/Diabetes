@@ -17,6 +17,16 @@ Primero consta de un **análisis** del [dataset](https://github.com/LautaroOchot
 
 6. Ensamble utilizando el modelo de redes neuronales, SVM y regresión logística.
 
+## Resultados
+
+| Modelo       | Precisión | Recall | ROC AUC |
+|--------------|--------|-----------|---------|
+| Redes Neuronales    | 0.85   | 0.88      | 0.90    |
+| Modelo 2     | 0.80   | 0.85      | 0.87    |
+| Modelo 3     | 0.82   | 0.83      | 0.88    |
+| Modelo 4     | 0.87   | 0.89      | 0.91    |
+| Modelo 5     | 0.83   | 0.84      | 0.86    |
+
 ## ¿Cómo ver el proyecto?
 
 Hay **tres maneras**:
