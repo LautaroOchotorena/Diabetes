@@ -40,7 +40,7 @@ Hay **tres maneras**:
 
 3. Descargarse el archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/Diabetes.ipynb) y ejecturalo en un env con el siguiente código:
 
-Navegá a la carpeta y en la consola corré:
+Navegá a la carpeta del proyecto y en la consola corré:
 
 ```bash
 pip install -r requirements.txt
