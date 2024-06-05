@@ -9,21 +9,23 @@ Primero consta de un **análisis** del [dataset](https://github.com/LautaroOchot
 
 2. Boosting con árboles de decisión.
 
-3. SVM.
+3. SVM lineal (con polynomial features)
 
-4. Regresión Logística.
+4. SVM con Kernel RBF
 
-5. Ensamble utilizando el modelo de redes neuronales, SVM y regresión logística.
+5. Regresión Logística.
+
+6. Ensamble utilizando el modelo de redes neuronales, SVM y regresión logística.
 
 ## ¿Cómo ver el proyecto?
 
 Hay **tres maneras**:
 
-1. El archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/main/Diabetes.ipynb) contiene la nootebook en donde se puede visualizar el código y los resultados obtenidos.
+1. El archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/diabetes.csv) contiene la nootebook en donde se puede visualizar el código y los resultados obtenidos.
 
 2. Se puede chequear el [Colab](https://colab.research.google.com/drive/1POTSqMkTs5cnioWX-Asejc1yMX1R39QO?usp=sharing).
 
-3. Descargarse el archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/main/Diabetes.ipynb) y ejecturalo en un env con el siguiente código:
+3. Descargarse el archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/diabetes.csv) y ejecturalo en un env con el siguiente código:
 
 En la consola, navega a la carpeta y corra:
 
