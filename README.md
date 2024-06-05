@@ -21,11 +21,11 @@ Primero consta de un **análisis** del [dataset](https://github.com/LautaroOchot
 
 Hay **tres maneras**:
 
-1. El archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/diabetes.csv) contiene la nootebook en donde se puede visualizar el código y los resultados obtenidos.
+1. El archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/Diabetes.ipynb) contiene la nootebook en donde se puede visualizar el código y los resultados obtenidos.
 
 2. Se puede chequear el [Colab](https://colab.research.google.com/drive/1POTSqMkTs5cnioWX-Asejc1yMX1R39QO?usp=sharing).
 
-3. Descargarse el archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/diabetes.csv) y ejecturalo en un env con el siguiente código:
+3. Descargarse el archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/Diabetes.ipynb) y ejecturalo en un env con el siguiente código:
 
 En la consola, navega a la carpeta y corra:
 
