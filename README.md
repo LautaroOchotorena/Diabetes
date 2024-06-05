@@ -42,9 +42,9 @@ Hay **tres maneras**:
 
 En la consola, navega a la carpeta y corra:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
 
 Esto instalará todas las dependencias necesarias.
 
