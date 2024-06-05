@@ -15,17 +15,20 @@ Primero consta de un **análisis** del [dataset](https://github.com/LautaroOchot
 
 5. Regresión Logística.
 
-6. Ensamble utilizando el modelo de redes neuronales, SVM y regresión logística.
+6. Ensamble (Votting) utilizando el modelo de boosting y regresión logística.
 
 ## Resultados
 
+Al tratarse de una enfermedad se priorizó tener una buena recall.
+
 | Modelo       | Precisión | Recall | ROC AUC |
 |--------------|--------|-----------|---------|
-| Redes Neuronales    | 0.85   | 0.88      | 0.90    |
-| Modelo 2     | 0.80   | 0.85      | 0.87    |
-| Modelo 3     | 0.82   | 0.83      | 0.88    |
-| Modelo 4     | 0.87   | 0.89      | 0.91    |
-| Modelo 5     | 0.83   | 0.84      | 0.86    |
+| Red Neuronal    | 0.68   | 0.78      | 0.88    |
+| Boosting     | 0.68   | 0.81      | 0.92    |
+| SVM lineal     | 0.69  | 0.75      | 0.88    |
+| SVM con RBF     | 0.67   | 0.75      | 0.88    |
+| Regresión Logística     | 0.78   | 0.84      | 0.89    |
+| Ensamble (Votting)     | 0.72   | 0.84      | 0.92    |
 
 ## ¿Cómo ver el proyecto?
 
