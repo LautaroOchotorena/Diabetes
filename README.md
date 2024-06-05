@@ -27,8 +27,8 @@ Al tratarse de una enfermedad se priorizó tener una buena recall en la clase di
 | Boosting     | 0.68   | 0.81      | 0.92    |
 | SVM lineal     | 0.69  | 0.75      | 0.88    |
 | SVM con RBF     | 0.67   | 0.75      | 0.88    |
-| Regresión Logística     | 0.78   | 0.84      | 0.89    |
-| Ensamble (Votting)     | 0.72   | 0.84      | 0.92    |
+| Regresión Logística     | 0.71   | 0.78      | 0.89    |
+| Ensamble (Votting)     | 0.74   | 0.72      | 0.92    |
 
 ## ¿Cómo ver el proyecto?
 
