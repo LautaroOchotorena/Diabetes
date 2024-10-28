@@ -40,6 +40,13 @@ Hay **tres maneras**:
 
 3. Descargarse el archivo [Diabetes](https://github.com/LautaroOchotorena/Diabetes/blob/master/Diabetes.ipynb) y ejecturalo en un env con el siguiente código:
 
+Descargar el proyecto:
+
+```bash
+    git clone https://github.com/LautaroOchotorena/Diabetes
+    cd Diabetes
+```
+
 Navegá a la carpeta del proyecto y en la consola corré:
 
 ```bash
