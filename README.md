@@ -47,12 +47,12 @@ Descargar el proyecto:
     cd Diabetes
 ```
 
-Navegá a la carpeta del proyecto y en la consola corré:
+Navegá a la carpeta del proyecto y crea el env con conda instalando las dependencias:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
-Esto instalará todas las dependencias necesarias.
+El entorno se llama "diabetes", actívalo y ya podrás correr el archivo .ipynb.
 
 Para la visualización de los árboles de decisión requiere la instalación de graphviz.
